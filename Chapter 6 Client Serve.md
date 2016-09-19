@@ -10,7 +10,7 @@
 
 ### 1.2  框架图
 
-![](http://7xl5e0.com1.z0.glb.clouddn.com/%E6%A1%86%E6%9E%B6%E5%9B%BE2.jpg)
+![](http://7xl5e0.com1.z0.glb.clouddn.com/c6%20001.jpg)
 
 ## 2. 最佳实践
 
