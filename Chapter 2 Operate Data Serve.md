@@ -147,7 +147,7 @@
 
 ![](http://7xl5e0.com1.z0.glb.clouddn.com/c2%20002.png)
 
-图片地址：http://7xl5e0.com1.z0.glb.clouddn.com/c2%20002.jpg
+图片地址：http://7xl5e0.com1.z0.glb.clouddn.com/c2%20002.png
 
 #### 2.4.2 可管理级最佳实践
 ##### 2.4.2.1 概述
